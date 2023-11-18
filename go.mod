@@ -9,4 +9,9 @@ go 1.21.4
 
 // 利用 go get -u github.com/oceanweave/testgomod@v1.0.1 命令进行拉取
 // 同时还支持分支拉取，此处不做展示，命令类似  go get -u github.com/oceanweave/testgomod@{分支名}
-require github.com/oceanweave/testgomod v1.0.1 // indirect
+//require github.com/oceanweave/testgomod v1.0.1 // indirect
+
+require (
+	github.com/oceanweave/testgomod v1.0.1 // indirect
+	github.com/oceanweave/testgomod/v2 v2.0.0 // indirect
+)
