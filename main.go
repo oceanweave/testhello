@@ -40,6 +40,8 @@ func main() {
 	// tools.SayHello()
 	tools.SayHi()
 
+	// 拉取 v1 版本 bug 修复成功，同时运行成功
+	// go get -u github.com/oceanweave/testgomod@v1.0.2
 	fmt.Println("--------- below is v1 tools go package ----")
 	toolsv1.SayHello()
 
