@@ -13,5 +13,5 @@ go 1.21.4
 
 require (
 	github.com/oceanweave/testgomod v1.0.2 // indirect
-	github.com/oceanweave/testgomod/v2 v2.0.0 // indirect
+	github.com/oceanweave/testgomod/v2 v2.0.1 // indirect
 )

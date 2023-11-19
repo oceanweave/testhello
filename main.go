@@ -38,6 +38,9 @@ func main() {
 	// 符合预期
 	// v2 版本重构后删除了此函数，更改为 SayHi
 	// tools.SayHello()
+
+	// 拉取 v2 bug 修复版本 v2.0.1 成功，并成功运行，此时也证明 testgomod 新建 v2 文件夹，用于独立更新 v2 版本成功
+	// go get -u github.com/oceanweave/testgomod/v2@v2.0.1
 	tools.SayHi()
 
 	// 拉取 v1 版本 bug 修复成功，同时运行成功

@@ -10,3 +10,5 @@ github.com/oceanweave/testgomod v1.0.2 h1:4IAcZSrvOvwQIAqDMtpOzpWdCX4g27MPOlv92j
 github.com/oceanweave/testgomod v1.0.2/go.mod h1:450LxQXFC9HdgazXoKud/OqwEvTbyrAk5Z4QmPv7L60=
 github.com/oceanweave/testgomod/v2 v2.0.0 h1:aP/vwRwHpuAgYzFmRF3fKSnDgZZyv3F9k+3YFUHs9KA=
 github.com/oceanweave/testgomod/v2 v2.0.0/go.mod h1:2cLitTMfyLAMJnWpipAKQZiSHHGlcUUzpOzRky9ZZII=
+github.com/oceanweave/testgomod/v2 v2.0.1 h1:mCIXrEWqWCsMAWWSr4hAiGUUTL3y11nclP6z7CjZK3o=
+github.com/oceanweave/testgomod/v2 v2.0.1/go.mod h1:vL3p9rk9DHcYye+0oWP/gC6+QI/O5hQribMfSX338Vk=
